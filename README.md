@@ -1,6 +1,4 @@
-### Hi there 👋, Dheeraj Balchandani
-#### I am an aspiring Data Scientist
-![I am an aspiring Data Scientist](thub-profile-readme-generator/images/banner.png)
+### Hi there 👋, I am Dheeraj Balchandani
 
 📊 Aspiring Data Scientist | NIT Jalandhar Graduate 🎓
 
